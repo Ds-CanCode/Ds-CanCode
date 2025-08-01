@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Back-end web projects**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **fadil.ue2006@gmail.com**
 
